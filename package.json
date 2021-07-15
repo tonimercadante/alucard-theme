@@ -1,0 +1,21 @@
+{
+    "name": "alucard-theme",
+    "displayName": "alucard-theme",
+    "description": "To the ones who embrace the light as well",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "alucard",
+                "uiTheme": "vs",
+                "path": "./themes/alucard-color-theme.json"
+            }
+        ]
+    }
+}
