@@ -1,6 +1,6 @@
 # README
 
-I'm creating this because I really enjoy light themes, but apparently dark theme is trending for a long time and I really love the Dracula theme, so I'm creating my own, named Alucard to be the opposite of it
+I'm creating this because I enjoy light themes, but apparently dark theme is trending for a long time and I love the Dracula theme, so why not create my own and name it Alucard to be the opposite of it? 🙂
 
 ## This is the README for your extension "alucard-theme"
 
