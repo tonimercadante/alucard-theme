@@ -1,10 +1,17 @@
 {
     "name": "alucard-theme",
-    "displayName": "alucard-theme",
+    "displayName": "Alucard-theme",
     "description": "To the ones who embrace the light as well",
     "version": "0.0.1",
+    "publisher": "tonimercadante",
     "engines": {
         "vscode": "^1.58.0"
+    },
+    "icon": "alucard-icon.ico",
+    "author": {
+        "name": "Toni Mercadante",
+        "email": "mercadanteneto@gmail.com",
+        "url": "https://github.com/tonimercadante"
     },
     "categories": [
         "Themes"
@@ -12,10 +19,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "alucard",
+                "label": "Alucard",
                 "uiTheme": "vs",
                 "path": "./themes/alucard-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/tonimercadante/alucard-theme.git",
+        "type": "git"
     }
 }
