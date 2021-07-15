@@ -2,7 +2,7 @@
     "name": "alucard-theme",
     "displayName": "Alucard-theme",
     "description": "To the ones who embrace the light as well",
-    "version": "0.0.4",
+    "version": "0.0.3",
     "publisher": "tonimercadante",
     "engines": {
         "vscode": "^1.56.2"
